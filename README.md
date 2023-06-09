@@ -7,3 +7,5 @@ Se debe mantener bajo control de versión el código generado.
 # Entregar:
 - Repositorio con el archivo con las pruebas unitarias y el código de producción bajo prueba
 (preferentemente en bitbucket o github).
+
+- En este practico se va a Testear las HAL del protocolo CAN, enviando y recibiendo caracteres y bytes mediante el Canal 1 CAN de la placa Nucleo STM32F429zi.
